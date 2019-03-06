@@ -1,5 +1,6 @@
 <html>
 	<head>
+		<title>Task2</title>
 		<meta charset="UTF-8"/>
 		<meta name="subhash" content="Apple Inc"/>
 		<meta name="description" content="This page is about smallbees bootcamp"/>
@@ -10,7 +11,7 @@
 		<meta http-equiv = "cookie" content = "userid = xyz;expires = Wednesday, 08-Aug-15 23:59:59 GMT;" />
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-		<title>Task2</title>
+		
 	</head>
 	<body>
 		<div>
@@ -34,9 +35,39 @@
 		<div>
 			<span>Reference Links:</span>
 			<ul>
-				<li><a href="https://www.w3schools.com/">W3 Schools</a></li>
-				<li><a href="https://www.tutorialspoint.com/">Tutorials point</a></li>
+				<li><a href="https://www.w3schools.com/" target="_self">W3 Schools</a></li>
+				<li><a href="https://www.tutorialspoint.com/" target="_blank">Tutorials point</a></li>
 			</ul>
 		</div>
+		<p>
+			Our inspiration sprouts from the desire to bring back the balance in the ecosystem.
+			Honeybees have inhabited our planet for around 3.5 million years and since then they have been an inseparable
+			part of nature. Moreover, they are the most reliable and easy to manage pollinator and for this reason they 
+			have been positioned well into the center of the agriculture industry. We rely on 30% of all our food to be pollinated
+			by the honeybees and we must protect and cherish them. Bees are responsible for the future of our food!
+		</p>
+		<p>
+			Our inspiration sprouts from the desire to bring back the balance in the ecosystem.
+			Honeybees have inhabited our planet for around 3.5 million years and since then they have been an inseparable
+			part of nature. Moreover, they are the most reliable and easy to manage pollinator and for this reason they 
+			have been positioned well into the center of the agriculture industry. We rely on 30% of all our food to be pollinated
+			by the honeybees and we must protect and cherish them. Bees are responsible for the future of our food!
+		</p>
+		<p>
+			Our inspiration sprouts from the desire to bring back the balance in the ecosystem.
+			Honeybees have inhabited our planet for around 3.5 million years and since then they have been an inseparable
+			part of nature. Moreover, they are the most reliable and easy to manage pollinator and for this reason they 
+			have been positioned well into the center of the agriculture industry. We rely on 30% of all our food to be pollinated
+			by the honeybees and we must protect and cherish them. Bees are responsible for the future of our food!
+		</p>
+		<p>
+			Our inspiration sprouts from the desire to bring back the balance in the ecosystem.
+			Honeybees have inhabited our planet for around 3.5 million years and since then they have been an inseparable
+			part of nature. Moreover, they are the most reliable and easy to manage pollinator and for this reason they 
+			have been positioned well into the center of the agriculture industry. We rely on 30% of all our food to be pollinated
+			by the honeybees and we must protect and cherish them. Bees are responsible for the future of our food!
+		</p>
+		
+		
 	</body>
 </html>
