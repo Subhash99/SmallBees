@@ -1,12 +1,14 @@
 <html>
 	<head>
-    <meta charset="UTF-8"/>
-    <meta name="subhash" content="Apple Inc"/>
-    <meta name="description" content="This page is about smallbees bootcamp"/>
-    <meta name="twitter/description" content="This our twitter page description"/>
-    <meta name="keywords" content="smallbees,bootcamp,rgukt,smallbees training"/>
-    <meta name = "revised" content = "Smallbees, 3/7/2019" />
-    <meta http-equiv = "refresh" content = "5; url = http://www.tutorialspoint.com" />
+		<meta charset="UTF-8"/>
+		<meta name="subhash" content="Apple Inc"/>
+		<meta name="description" content="This page is about smallbees bootcamp"/>
+		<meta name="twitter/description" content="This our twitter page description"/>
+		<meta name="keywords" content="smallbees,bootcamp,rgukt,smallbees training"/>
+		<meta name = "revised" content = "Smallbees, 3/7/2019" />
+		<meta http-equiv = "refresh" content = "5; url = http://www.tutorialspoint.com" />
+		<meta http-equiv = "cookie" content = "userid = xyz;expires = Wednesday, 08-Aug-15 23:59:59 GMT;" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 		<title>Task2</title>
 	</head>
