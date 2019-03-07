@@ -1,1 +1,102 @@
+<DOCTYPE html>
+<html>
+	<head>
+		<title>Task2</title>
+		<meta charset="UTF-8"/>
+		<meta name="subhash" content="Apple Inc"/>
+		<meta name="description" content="This page is about smallbees bootcamp"/>
+		<meta name="twitter/description" content="This our twitter page description"/>
+		<meta name="keywords" content="smallbees,bootcamp,rgukt,smallbees training"/>
+		<meta name = "revised" content = "Smallbees, 3/7/2019" />
+		<meta http-equiv = "refresh" content = "111135; url = http://www.tutorialspoint.com" />
+		<meta http-equiv = "cookie" content = "userid = xyz;expires = Wednesday, 08-Aug-15 23:59:59 GMT;" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
+		
+	</head>
+	<body>
+		<div>
+			<h1>SmallBees BootCamp</h1>
+		</div>
+		<div id="div1">
+			<p><strong>Cohort Members</strong></p>
+			<ol>
+				<li>Subhash</li>
+				<li>Lavanya</li>
+				<li>Narasimha</li>
+				<li>JayaSree</li>	
+			</ol>
+			<ul>
+				<li>Yogendra</li>
+				<li>Praveen</li>
+				<li>Sumanth</li>
+				<li>Suresh</li>
+			</ul>
+		</div>
+		<p id="para">
+			Our inspiration sprouts from the desire to bring back the balance in the ecosystem.
+			Honeybees have inhabited our planet for around 3.5 million years and since then they have been an inseparable
+			part of nature. Moreover, they are the most reliable and easy to manage pollinator and for this reason they 
+			have been positioned well into the center of the agriculture industry. We rely on 30% of all our food to be pollinated
+			by the honeybees and we must protect and cherish them. Bees are responsible for the future of our food!
+		</p>
+		<div>
+			<dl>
+		   		<dt>HTML</dt>
+		   		<dd>HTML stands for Hyper Text Markup Language. HTML describes the structure of Web pages using markup. HTML elements are the building blocks of HTML pages. HTML elements are represented by tags. HTML tags label pieces of content such as "heading", "paragraph", "table", and so on. Browsers do not display the HTML tags, but use them to render the content of the page</dd>
+		   	
+		   	</dl>
+		</div>
+		<div>
+			Subhash said <blockquote cite="Subhash Wikipedia">Dont wait for a perfect moment ,take a moment and make it perfect</blockquote>
+
+			<p>The <abbr title="World Health Organisation">WHO</abbr> found in 1951.
+
+			<address>
+				<pre>
+					WHO Headquarters
+					Avenue Appia 20
+					1211
+					Geneva 27
+				</pre>
+			</address>
+			<ul>
+				<li>
+					<p>(a + b)<sup>2</sup>=a<sup>2</sup>+2ab+b<sup>2</sup></p>
+				</li>
+				<li>
+					<p>y=a<sub>1</sub>x+a<sub>2</sub>y</p>
+				</li>
+			</ul>
+			<code>
+				<pre>
+					def Subhash():
+						print ("Task3 completed successfuly")
+					if __name__=="__main__":
+						main()
+				</pre>
+
+			</code>
+			<samp>Sample output from a computer program</samp><br>
+			<h4>Keyword Shortcuts:-</h4>
+			<kbd>
+				ctrl+c<br>
+				ctrl+v<br>
+				ctrl+shift+c<br>
+				ctrl+alt+c<br><br>
+
+			</kbd>
+
+			<p>I have a date on <time datetime="2008-02-14 20:00">Valentines day</time>.</p>
+
+		</div>
+		<div>
+			<span>Reference Links:</span>	
+			<ul>
+				<li><a href="#para" title="Paragraph">Paragraph</a></li>
+				<li><a href="https://www.w3schools.com/" target="_self" title="W3Schools">W3 Schools</a></li>
+				<li><a href="https://www.tutorialspoint.com/" target="_blank" title="Tutorialspoint">Tutorials point</a></li>
+			</ul>
+		</div>
+	</body>
+</html>
