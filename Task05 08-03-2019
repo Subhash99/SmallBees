@@ -1,1 +1,65 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8"/>
+	<meta name="subhash" content="Apple Inc"/>
+	<meta name="description" content="This page is about smallbees bootcamp"/>
+	<meta name="twitter/description" content="This our twitter page description"/>
+	<meta name="keywords" content="Flipkart,PhoneAccessories,Computers"/>
+	<meta name = "revised" content = "Smallbees, 3/7/2019" />
+	<meta http-equiv = "refresh" content = "111135; url = http://www.tutorialspoint.com" />
+	<meta http-equiv = "cookie" content = "userid = xyz;expires = Wednesday, 08-Aug-15 23:59:59 GMT;" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My page title</title>
+  </head>
+  <body>
+    <header>
+      <h1>Flipkart</h1>
+    </header>
+    <hr>
+    <nav>
+      <ul>
+        <li><a href="#">Home</a></li>
+        <li><a href="#">Our team</a></li>
+        <li><a href="#">Projects</a></li>
+        <li><a href="#">Contact</a></li>
+      </ul>
+     </nav>
+     <hr>
+    <main>
+    	<body>
+	    	<aside style="float: left;width:20%">
+	        <ul>
+	          <li><a href="#">Phone Accessories</a></li>
+	          <li><a href="#">Mens Clothing</a></li>
+	          <li><a href="#">Womens Clothing</a></li>
+	          <li><a href="#">Compters & Laptops</a></li>
+	          <li><a href="#">Foot Wear</a></li>
+	        </ul>
+	      </aside>
+	      <article style="float: right;margin-left: 20%">
+	        <h2>Flipkart Description 1</h2>
 
+	        <section>A couple of them are almost like "official sellers" even though they are not actually Amazon or Flipkart. In the case of Flipkart, this seller is WS Retail. Buying something from WS Retail is almost 100 per cent safe. So when you are buying a product from Flipkart, make sure you get it from WS Retail.</section>
+
+	        <h3>subsection</h3>
+
+	        <section>Flipkart Pay Later is a proposition extended by select sellers to certain select customers, wherein the said sellers are extending the option to pay for their orders at a date later than purchase date, subject to a collective monthly purchase limit and these terms and conditions.</section>
+
+
+	        <h3>Flipkart Description 2</h3>
+
+	        <section>To become a Flipkart Plus member, customers will need to earn Plus Coins, which are basically digital coins, by shopping with Flipkart. To become a Flipkart Plus member, a customer should have a minimum of 50 coins. Flipkart will offer 1 Plus coin every time a consumer spends Rs 250.</section>
+	        <h3>subsection</h3>
+	        <section>Download the Flipkart mobile app and enjoy the smoothest shopping experience. The best mobile app for online shopping is one that lets you buy anything that you can avail from the broad-ranging products over the internet, from within the app on your smartphone that you always carry around with yourself.</section>
+	      </article>
+      </body>
+
+    </main>
+
+
+  </body>
+  <footer>
+	  <p>©Copyright 2050 by nobody. All rights reversed.</p>
+  </footer>
+</html>
