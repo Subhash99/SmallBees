@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8"/>
+    <meta name="subhash" content="Apple Inc"/>
+    <meta name="description" content="This page is about smallbees bootcamp"/>
+    <meta name="twitter/description" content="This our twitter page description"/>
+    <meta name="keywords" content="Flipkart,PhoneAccessories,Computers"/>
+    <meta name = "revised" content = "Smallbees, 3/7/2019" />
+    <meta http-equiv = "refresh" content = "111135; url = http://www.tutorialspoint.com" />
+    <meta http-equiv = "cookie" content = "userid = xyz;expires = Wednesday, 08-Aug-15 23:59:59 GMT;" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="late.css">
+
+    <title>My page title</title>
+  </head>
+  <body>
+    <nav>
+      <ul class="nav-ul">
+        <li class="nav-li"><a class="nav-a" href="#">Home</a></li>
+        <li class="nav-li"><a class="nav-a" href="#">Mobile</a></li>
+        <li class="nav-li"><a class="nav-a" href="#">Cloths</a></li>
+        <li class="nav-li"><a class="nav-a" href="#">Computers</a></li>
+        <li class="nav-li"><a class="nav-a" href="#">Decorations</a></li>
+        <li class="nav-li"><a class="nav-a" href="#">AboutUs</a></li>
+        <li class="nav-li"><a class="nav-a" href="#">ContactUs</a></li>
+        <li class="nav-li1"><a class="nav-a" href="#">Login</a></li>
+      </ul>
+    </nav>
+    <main>
+      <div>
+        <aside>
+          <ul class="side-nav-ul">
+            <li class="side-nav-li"><a href="#" class="side-nav-a">Audio</a></li>
+            <li class="side-nav-li"><a href="#" class="side-nav-a">Video</a></li>
+            <li class="side-nav-li"><a href="#"  class="side-nav-a">Iframe</a></li>
+          </ul>
+        </aside>
+        <div style="margin-left: 11%;">
+          <div>
+            <section style="margin-left:80px;padding:30px;border: 1px solid #333;float: left;width: 400px;">
+              <figure>
+                <figcaption>Listen to the T-Rex:</figcaption><br>
+                <audio controls autoplay muted loop preload="auto">
+                  <source src="padi.mp3" type="audio/mp3">
+                  <source src="padi.ogg" type="audio/ogg">
+                  <p>Your browser doesn't support HTML5 audio. Here is
+                  a <a href="myAudio.mp4">link to the audio</a> instead.</p>
+                </audio>
+              </figure>
+            </section>
+            <section style="padding:30px;border: 1px solid #333;float: left;margin-left: 100px;">
+              <figure>
+                <figcaption>Listen to the T-Rex:</figcaption><br>
+                <audio controls autoplay muted loop preload="auto">
+                  <source src="padi.mp3" type="audio/mp3">
+                  <source src="padi.ogg" type="audio/ogg">
+                  <p>Your browser doesn't support HTML5 audio. Here is
+                  a <a href="myAudio.mp4">link to the audio</a> instead.</p>
+                </audio>
+              </figure>
+            </section>
+        </div>
+        <div>
+          <section style="margin-left:80px;border: 1px solid #333;float: left;width: 400px;">
+              <figure>
+                <figcaption>Watch to Video:</figcaption><br>
+                <video controls autoplay muted loop preload="auto">
+                  <source src="padi.mp4" type="video/mp4">
+                  <source src="padi.ogg" type="video/ogg">
+                </video>
+              </figure>
+            </section>
+            <section style="margin-left:80px;border: 1px solid #333;float: left;width: 400px;">
+              <figure>
+                <figcaption>Listen to the T-Rex:</figcaption><br>
+                <video controls autoplay muted loop preload="auto">
+                  <source src="padi.mp4" type="video/mp4">
+                  <source src="padi.ogg" type="video/ogg">
+                </video>
+              </figure>
+            </section>
+        </div>
+
+
+        </div>
+    </div>
+    </main>
+    </body>
+</html>
