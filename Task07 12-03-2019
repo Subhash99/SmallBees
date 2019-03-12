@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<style type="text/css">
+			table{
+				border:1px solid #333;
+			}
+			tr{
+				border:1px solid #333;
+
+			}
+			td{
+				border:1px solid #333;
+			}
+		</style>
+	</head>
+	<body>
+		<div style="width:500px;height:500px;">
+			<p>With Scrolling</p>
+			<iframe src="https://www.tutorialspoint.com/html/html_iframes.htm" name="iframe_1" frameborder="1" marginwidth="10" scrolling="no">
+			<p>Your browser does not support iframes.</p>
+			</iframe>
+			<p>Without Scrolling</p>
+			<iframe src="https://www.tutorialspoint.com/html/html_iframes.htm"  frameborder="1" marginwidth="10" scrolling="yes">
+				<p>Your browser does not support iframes.</p>
+			</iframe>
+
+		</div>
+		<a href="https://www.youtube.com/watch?v=RrrPVPlG6iQ&list=RDRrrPVPlG6iQ&start_radio=1" target="iframe_1">Click Here</a>
+		</a>
+
+		<table>
+		  <thead>
+		    <tr>
+		      <th>Name</th>
+		      <th>Instrument</th>
+		    </tr>
+		  </thead>
+		  <tbody>
+		    <tr>
+		      <td>John Lennon</td>
+		      <td rowspan="2">Rhythm Guitar</td>
+		      <td>John Lennon</td>
+		      
+		    </tr>
+		    <tr>
+		      <td>Paul McCartney</td>
+		     
+		      <td>Rhythm Guitar</td>
+		    </tr>
+		    <tr>
+		      <td>George Harrison</td>
+		      <td colspan="2">Lead Guitar</td>
+		     
+		    </tr>
+		    <tr>
+		      <td>Ringo Starr</td>
+		      <td>Drums</td>
+		      <td>Rhythm Guitar</td>
+		    </tr>
+		  </tbody>
+		</table>
+	</body>
+</html>
