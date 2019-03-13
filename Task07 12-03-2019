@@ -17,7 +17,7 @@
 	<body>
 		<div style="width:500px;height:500px;">
 			<p>With Scrolling</p>
-			<iframe src="https://www.tutorialspoint.com/html/html_iframes.htm" name="iframe_1" frameborder="1" marginwidth="10" scrolling="no">
+			<iframe src="https://www.tutorialspoint.com/html/html_iframes.htm" allowfullscreen name="iframe_1" frameborder="1" marginwidth="10" scrolling="no">
 			<p>Your browser does not support iframes.</p>
 			</iframe>
 			<p>Without Scrolling</p>
