@@ -1,1 +1,31 @@
-
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<script type="text/javascript">
+	function draw(){
+			var vals=document.getElementById("vaal").value;
+			var x=vals.split(",");
+			console.log(x);
+			var canvas=document.getElementById("canv");
+			var ctx=canvas.getContext("2d");
+			var X=0;
+			var Y=0;
+			var width=20;
+			ctx.fillStyle="cyan"
+			for(i=0;i<x.length;i++){
+				X=X+30;
+				Y=500-x[i];
+				ctx.fillRect(X,Y,width,x[i]);
+			}
+	}
+</script>
+<body>
+		<input placeholder="give values like 10,20,30"type="text" name="vals" id="vaal" style="margin-left: 40%;">
+		<button onclick="draw()">Click </button>
+		<canvas  id='canv' width="500px" height="500px" style="border: 1px solid #333;margin-left: 35%;">
+			Your browser not supported
+		</canvas>
+</body>
+</html>
